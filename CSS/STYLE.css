@@ -1,0 +1,54 @@
+body{
+background-image:url(https://picsum.photos/1366/720);
+}
+
+.container{
+width: 1250px;
+margin-left: auto;
+margin-right: auto;
+padding-left:  15px;
+padding-right: 15px;
+}
+
+.dastur{
+ text-align: center;
+}
+
+.bodyy{
+ display: flex;
+ align-items: flex-start;
+ justify-content:center;
+ margin:15px 40px;
+}
+
+.body-father{
+ width:300px;
+ height:250px;
+ padding-right:50px;
+}
+
+.body-father_1{
+ width:300px;
+ height:250px;
+ padding-left:80px;
+ 
+}
+
+
+.body-child{
+ text-transform: uppercase;
+}
+
+.body-text{
+ width: 250px;
+ height:200px;
+ margin-bottom:100px;
+}
+
+.body-image{
+ border-radius: 25px;
+}
+
+.program{
+display: inline-block; 
+}
